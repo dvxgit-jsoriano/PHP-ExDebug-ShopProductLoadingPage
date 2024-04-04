@@ -1,6 +1,6 @@
 # PHP-ExDebug-ShopProductLoadingPage
 
-This is a PHP practical exercise where you have to debug the program to make it work. Find as many bugs as possible. Find some hints from the README.md
+This is a PHP practical exercise where you have to debug the program to make it work. Find as many bugs as possible. Find some hints from the README.md. This assumes you know vanilla php (plain php programming code) and jquery (a javascript plugin).
 
 ## Actual Website Display
 
@@ -21,6 +21,8 @@ git add --all
 git commit -m "Fixed errors and bugs"
 git push -u origin JSoriano
 ```
+
+- <b>STRICTLY: NO CHEATING! NO CHATGPT OR ANY AI!</b>
 
 ## Bug Find and Fix
 
