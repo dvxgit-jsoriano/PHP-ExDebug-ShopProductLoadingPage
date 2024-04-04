@@ -6,13 +6,24 @@ This is a PHP practical exercise where you have to debug the program to make it 
 
 ![Website Display](images/image.png)
 
+## Instructions
+
+- Clone the repository in your favorite php web server (Wamp, xamp, laragon, or herd)
+```
+git clone https://github.com/dvxgit-jsoriano/PHP-ExDebug-ShopProductLoadingPage.git
+```
+- Go to the folder, then go fix the bugs!
+- Submit your answers by creating a branch with your name, commit and then push.
+- Example:
+```
+git checkout -b JSoriano
+git add --all
+git commit -m "Fixed errors and bugs"
+git push -u origin JSoriano
+```
+
 ## Bug Find and Fix
 
-- There are about 6 bugs in this simple program. Find them and fix the errors and bugs.
-- Notes the bugs you found and solution you applied.
+- There are about errors and bugs in this simple program. Find them and fix the errors and bugs. Let the hunt begin!
 
-| ---------- | ------------|
-| Bugs Found | Solutions   |
-| ---------- | ------------|
-| No comma   | Added comma |
-| ---------- | ------------|
+![LetTheHuntBeing](https://i.imgflip.com/2axjvs.gif)

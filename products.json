@@ -43,7 +43,7 @@
         "product_id": "005",
         "name": "Sky Flakes",
         "is_new": false,
-        "category": "Food",
+        "category_error": "Food",
         "sub_category": "Biscuits",
         "image_url": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/s/k/skyflakes-handy-packed-crackers-200g_2.jpg",
         "quantity": "200g",
@@ -98,7 +98,7 @@
         "image_url": "https://shoppe24.ph/cdn/shop/products/203_SELECTA_SUPERTHICK_VANILLA_1.5L_af01c6fe-e482-4729-a0d4-1fcb90de24a2_492x.jpg?v=1588825524",
         "quantity": "1.5L",
         "price_php": 200.00
-    },
+    }
     {
         "product_id": "010",
         "name": "Selecta Ice Cream",
