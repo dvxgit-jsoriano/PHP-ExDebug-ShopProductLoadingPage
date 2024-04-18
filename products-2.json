@@ -1,63 +1,62 @@
-{
-    [
-        {
-            "product_id": "011",
-            "name": "San Miguel Beer",
-            "is_new": false,
-            "category": "Beverages",
-            "sub_category": "Alcoholic Beverages",
-            "image_url": "https://marilenminimart.com/cdn/shop/products/image_2021-03-31_024308.png?v=1617129793",
-            "quantity": "330ml",
-            "price_php": 30.00
-        },
-        {
-            "product_id": "012",
-            "name": "Red Horse Beer",
-            "is_new": true,
-            "category": "Beverages",
-            "sub_category": "Alcoholic Beverages",
-            "image_url": "https://primomart.ph/cdn/shop/products/DSF0521_9434ea22-d986-4890-aaa9-bfa3523fa263_500x500.png?v=1638233077",
-            "quantity": "500ml",
-            "price_php": 40.00
-        },
-        {
-            "product_id": "013",
-            "name": "Century Tuna",
-            "is_new": false,
-            "category": "Food",
-            "sub_category": "Canned Goods",
-            "image_url": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/c/e/century-tuna-flakes-in-oil-100g_3.jpg",
-            "quantity": "180g",
-            "price_php": 35.00
-        },
-        {
-            "product_id": "014",
-            "name": "Bounty Fresh Chicken",
-            "is_new": true,
-            "category": "Food",
-            "sub_category": "Poultry",
-            "image_url": "https://boholgrocery.com/wp-content/uploads/2020/09/Bounty-Whole-Chicken.png",
-            "quantity": "1kg",
-            "price_php": 120.00
-        },
-        {
-            "product_id": "015",
-            "name": "Nestlé Chuckie",
-            "is_new": false,
-            "category": "Beverages",
-            "sub_category": "Chocolate Milk",
-            "image_url": "https://shoppe24.ph/cdn/shop/products/nestlechuckie_640x.jpg?v=1586880632",
-            "quantity": "250ml",
-            "price_php": 20.00
-        },
-        {
-            "product_id": "016",
-            "name": "Safeguard Soap",
-            "is_new": true,
-            "category": "Personal Care",
-            "sub_category": "Body Care",
-            "image_url": "https://shoppersmart.com.ph/cdn/shop/products/Safeguard_Soap_White_135g_600x.jpg?v=1603364037",
-            "quantity": "135g"
-        }
-    ]
-}
+[
+    {
+        "product_id": "011",
+        "name": "San Miguel Beer",
+        "is_new": false,
+        "category": "Beverages",
+        "sub_category": "Alcoholic Beverages",
+        "image_url": "https://marilenminimart.com/cdn/shop/products/image_2021-03-31_024308.png?v=1617129793",
+        "quantity": "330ml",
+        "price_php": 30.00
+    },
+    {
+        "product_id": "012",
+        "name": "Red Horse Beer",
+        "is_new": true,
+        "category": "Beverages",
+        "sub_category": "Alcoholic Beverages",
+        "image_url": "https://primomart.ph/cdn/shop/products/DSF0521_9434ea22-d986-4890-aaa9-bfa3523fa263_500x500.png?v=1638233077",
+        "quantity": "500ml",
+        "price_php": 40.00
+    },
+    {
+        "product_id": "013",
+        "name": "Century Tuna",
+        "is_new": false,
+        "category": "Food",
+        "sub_category": "Canned Goods",
+        "image_url": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/c/e/century-tuna-flakes-in-oil-100g_3.jpg",
+        "quantity": "180g",
+        "price_php": 35.00
+    },
+    {
+        "product_id": "014",
+        "name": "Bounty Fresh Chicken",
+        "is_new": true,
+        "category": "Food",
+        "sub_category": "Poultry",
+        "image_url": "https://boholgrocery.com/wp-content/uploads/2020/09/Bounty-Whole-Chicken.png",
+        "quantity": "1kg",
+        "price_php": 120.00
+    },
+    {
+        "product_id": "015",
+        "name": "Nestlé Chuckie",
+        "is_new": false,
+        "category": "Beverages",
+        "sub_category": "Chocolate Milk",
+        "image_url": "https://shoppe24.ph/cdn/shop/products/nestlechuckie_640x.jpg?v=1586880632",
+        "quantity": "250ml",
+        "price_php": 20.00
+    },
+    {
+        "product_id": "016",
+        "name": "Safeguard Soap",
+        "is_new": true,
+        "category": "Personal Care",
+        "sub_category": "Body Care",
+        "image_url": "https://shoppersmart.com.ph/cdn/shop/products/Safeguard_Soap_White_135g_600x.jpg?v=1603364037",
+        "quantity": "135g",
+        "price_php":30.00
+    }
+]

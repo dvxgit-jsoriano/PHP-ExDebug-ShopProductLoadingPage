@@ -5,7 +5,7 @@
         "is_new": false,
         "category": "Beverages",
         "sub_category": "Soft Drinks",
-        "image_url": "https://www.cokebeverages.ph/4060-big_default/coca-cola-original-taste-500ml-pack-of-6.jpg",
+        "image_url": "https://www.cokebeverages.ph/5230-big_default/coca-cola-original-taste-500ml.jpg",
         "quantity": "500ml",
         "price_php": 25.00
     },
@@ -13,7 +13,7 @@
         "product_id": "002",
         "name": "Pepsi",
         "is_new": true,
-        "category_error": "Beverages",
+        "category": "Beverages",
         "sub_category": "Soft Drinks",
         "image_url": "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/1564405684702544350/0cdc7faea6edc465f88435bc627c8ef6_large.png&width=512&type=webp&quality=90",
         "quantity": "1.5L",
@@ -43,7 +43,7 @@
         "product_id": "005",
         "name": "Sky Flakes",
         "is_new": false,
-        "category_error": "Food",
+        "category": "Food",
         "sub_category": "Biscuits",
         "image_url": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/s/k/skyflakes-handy-packed-crackers-200g_2.jpg",
         "quantity": "200g",
@@ -89,26 +89,6 @@
         "quantity": "150g",
         "price_php": 50.00
     },
-    {
-        "product_id": "010",
-        "name": "Selecta Ice Cream",
-        "is_new": true,
-        "category": "Food",
-        "sub_category": "Frozen Desserts",
-        "image_url": "https://shoppe24.ph/cdn/shop/products/203_SELECTA_SUPERTHICK_VANILLA_1.5L_af01c6fe-e482-4729-a0d4-1fcb90de24a2_492x.jpg?v=1588825524",
-        "quantity": "1.5L",
-        "price_php": 200.00
-    }
-    {
-        "product_id": "010",
-        "name": "Selecta Ice Cream",
-        "is_new": true,
-        "category": "Food",
-        "sub_category": "Frozen Desserts",
-        "image_url": "https://shoppe24.ph/cdn/shop/products/203_SELECTA_SUPERTHICK_VANILLA_1.5L_af01c6fe-e482-4729-a0d4-1fcb90de24a2_492x.jpg?v=1588825524",
-        "quantity": "1.5L",
-        "price_php": 200.00
-    }
     {
         "product_id": "010",
         "name": "Selecta Ice Cream",
